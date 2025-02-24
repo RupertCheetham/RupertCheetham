@@ -26,11 +26,10 @@ My skill set now spans various programming languages and technologies,bencompass
 
 <p align="left"> <a href="https://www.github.com/RupertCheetham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rupert-cheetham-963041273/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+### Top Languages
 
-<a href="https://github.com/RupertCheetham" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupertCheetham&layout=compact&theme=dark&exclude_repo=01Founders" alt="Top Languages" />
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RupertCheetham&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
+
 
 <b>Top Repositories</b>
 
