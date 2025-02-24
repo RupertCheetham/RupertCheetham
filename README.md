@@ -28,7 +28,9 @@ My skill set now spans various programming languages and technologies,bencompass
 
 ### Badges
 
-<a href="https://github.com/RupertCheetham" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupertCheetham&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/RupertCheetham" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupertCheetham&layout=compact&theme=dark&exclude_repo=01Founders" alt="Top Languages" />
+</a>
 
 <b>Top Repositories</b>
 
