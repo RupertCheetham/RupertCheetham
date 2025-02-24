@@ -9,7 +9,7 @@ working in hospitality, and repairing bikes in Aberdeen, I made the bold decisio
 relocate to London. Driven by a fervent need to finally fulfil my passion, I heeded the​
 call of coding.
 
-My skill set now spans various programming languages and technologies,bencompassing Golang, JavaScript, Python, SQL, Node.js, HTML, CSS and Docker, amongst others; I'm eager to learn more.
+My skill set now spans various programming languages and technologies, encompassing Golang, JavaScript, Python, SQL, Node.js, HTML, CSS and Docker, amongst others; I'm eager to learn more.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [rupertcheetham@outlook.com](mailto:rupertcheetham@outlook.com)
