@@ -37,4 +37,4 @@ My skill set now spans various programming languages and technologies, encompass
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/RupertCheetham/GraphQL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RupertCheetham&repo=GraphQL&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/RupertCheetham/GraphQL" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RupertCheetham&repo=GraphQL&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
