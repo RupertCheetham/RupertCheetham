@@ -4,12 +4,7 @@ Hi 👋 My name is Rupert Cheetham
 Passionate Software Developer
 -----------------------------
 
-Mid-2022 marked a pivotal moment for me. After 16 years of navigating university,
-working in hospitality, and repairing bikes in Aberdeen, I made the bold decision to
-relocate to London. Driven by a fervent need to finally fulfil my passion, I heeded the​
-call of coding.
-
-My skill set now spans various programming languages and technologies, encompassing Golang, JavaScript, Python, SQL, Node.js, HTML, CSS and Docker, amongst others; I'm eager to learn more.
+Mid-2022 marked a pivotal moment for me. After 16 years of navigating university, working in hospitality, and repairing bikes in Aberdeen, I made the bold decision to relocate to London. Driven by a fervent need to finally fulfil my passion, I heeded the call of coding.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [rupertcheetham@outlook.com](mailto:rupertcheetham@outlook.com)
@@ -26,15 +21,14 @@ My skill set now spans various programming languages and technologies, encompass
 
 <p align="left"> <a href="https://www.github.com/RupertCheetham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rupert-cheetham-963041273/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Top Languages
+### Badges
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RupertCheetham&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
-
+<a href="https://github.com/RupertCheetham" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupertCheetham&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RupertCheetham/SocialNetwork" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RupertCheetham&repo=SocialNetwork&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/RupertCheetham/SocialNetwork" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RupertCheetham&repo=SocialNetwork&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RupertCheetham/Bomberman-DOM" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RupertCheetham&repo=Bomberman-DOM&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/RupertCheetham/GraphQL" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RupertCheetham&repo=GraphQL&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/RupertCheetham/RealtimeForum" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RupertCheetham&repo=RealtimeForum&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RupertCheetham/GraphQL" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RupertCheetham&repo=GraphQL&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
