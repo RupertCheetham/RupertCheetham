@@ -23,7 +23,7 @@ Mid-2022 marked a pivotal moment for me. After 16 years of navigating university
 
 ### Top Languages
 
-<a href="https://github.com/RupertCheetham" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupertCheetham&layout=compact&theme=dark&exclude_repo=01Founders" alt="Top Languages" /></a>
+<a href="https://github.com/RupertCheetham" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupertCheetham&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
